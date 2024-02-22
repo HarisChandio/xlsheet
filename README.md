@@ -1,6 +1,6 @@
 Hello I need a object like this from the file
 
-const timetable = {
+`const timetable = {
   Monday: {
     815: {
       Room1: "Math",
@@ -24,6 +24,6 @@ const timetable = {
     // Other time slots can be similarly populated
   },
   // Other days can be similarly populated
-};
+};`
 
 console.log(timetable);
