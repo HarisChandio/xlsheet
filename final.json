@@ -1,0 +1,2446 @@
+{
+    "BBA-4B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "Business Statistics",
+                    "Ms. Zainab Soomro"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "IBF",
+                    "Dr. Arshad haroon"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-15": [
+                    "Consumer Behavior",
+                    "Dr. Faraz Memon"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "Retail Management",
+                    "Ms. Murk Fatima"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "Cost & Management Accounting",
+                    "Ms. Ayesha Memon"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "Business Ethics",
+                    "Mr. Jamshaid"
+                ]
+            }
+        }
+    },
+    "BSAF-8": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "Pakistan Economics Policy",
+                    "Dr. Asandas"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Advanced Performance Management (Accounting Elective-2)",
+                    "Mr. Dinesh Lalwani"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Entrepreneurship and Small Business Managemenet",
+                    "Dr. Abdul Ghafoor"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-2": [
+                    "HRM BBA-6B & MBA-72 (2) &",
+                    "Mr. Bilal Khan"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Final Project-II",
+                    "Dr. Ikramuddin"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "Financial Risk Analysis (Elect-2 Finance BBA-7 (A&B) &",
+                    "Mr. Imran Soomro"
+                ]
+            }
+        }
+    },
+    "BSSS-8": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Enlightement",
+                    "Mr. Shayan Siddiqui"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Psycho Dynamics (Major-II Psychology) BSSS-5 & BSSS-7 &",
+                    "Dr. Irfana Shah"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Public Policy",
+                    "Mr. Uzair memon"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Arms Control & Disarmament (Major-I International Relations) BSSS-5 & BSSS-7 &",
+                    "Mr. Shayan Siddiqui"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "Middle Eastern Studies (Major-II International Relations) BSSS-5 & BSSS-7 &",
+                    "Mr. Naveed Qamar"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "US and International Politics (Major-II International Relations) BSSS-5 & BSSS-7 &",
+                    "Dr. Hassan Bux Noonari"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-4": [
+                    "Forensic Psychology ( Major-II Psychology) BSSS-5 & BSSS-7 &",
+                    "Dr. Muhammad Haris"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Environmental Psychology ( Major-III Psychology) BSSS-5 & BSSS-7 &",
+                    "Ms. Mahnoor Samo"
+                ]
+            }
+        }
+    },
+    "BBA-3A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "Macroeconomics",
+                    "Ms. Ayesha Memon"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Financial Accounting",
+                    "& Advanced Financial Accounting BSAF-2 Ms. Maryam Qureshi"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "Logic & Critical Thinking",
+                    "Mr. Usayd Jamil"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "OB",
+                    "& BSAF-3 Dr. Noor Muhammad jamali"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "Marketing Principles",
+                    "& BSAF-3 Ms. Museara Bhutto"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-14": [
+                    "Business and Electronic Communication",
+                    "& MBA-72 (1) Ms. Sadia Syed"
+                ]
+            }
+        }
+    },
+    "BSAF-3": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Macroeconomics",
+                    "& BSSS-2 Ms. Faiza Shahani"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "OB BBA-3A &",
+                    "Dr. Noor Muhammad jamali"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "Marketing Principles BBA-3A &",
+                    "Ms. Museara Bhutto"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "Cost Accounting",
+                    "& BBA-Open Ms. Ayesha Memon"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "Calculus for Business Studies",
+                    "Mr. Ahmed Raza"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "Intro. to Business Finance BBA-4A & MBA-72 (2) &",
+                    "Dr. Arshad Haroon"
+                ]
+            }
+        }
+    },
+    "BSSS-2": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Macroeconomics BSAF-3 &",
+                    "Ms. Faiza Shahani"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Introduction to Sociology BSAF-2 &",
+                    "Ms. Tanzeela Abid"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "Introduction to Psychology BSAF-2 &",
+                    "Dr. Irfana Shah"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "11:00AM to 1:30PM": {
+                "Room-2": [
+                    "Introduction to Political Science",
+                    "Dr. Sarfaraz Malik"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-10": [
+                    "International Relations",
+                    "Mr. Naveed Qamar"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Islamic Studies BSAF-1 &",
+                    "Mr. Usman Khan"
+                ]
+            }
+        }
+    },
+    "BSAF-7": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "Strategic Business Reporting (Accounting Elective-1)",
+                    "Mr. Dinesh lalwani"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "E-Commerce",
+                    "Mr. Javed"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-6": [
+                    "Corporate Finance",
+                    "Ms. Zainab Soomro"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "Company Law",
+                    "Dr. Muneer Soomro"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "Final Project-1",
+                    "Dr. Sobia Shah"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "Portfolio and Investment management (Elect-1 Finance BBA-7 (A&B) &",
+                    "Mr. Haris Mastoi"
+                ]
+            }
+        }
+    },
+    "BBA-1A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "OCPS",
+                    "Ms. Shaheera Mukhtar"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "Sociology",
+                    "Mr. Bilal Khan"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Islamic Studies",
+                    "Mr. Uzair Memon"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "PMC",
+                    "Ms. Sumera Uner"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "Management Principles",
+                    "Ms. Annam jameel"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "IT in Business",
+                    "Ms. Faryal Sabir"
+                ]
+            }
+        }
+    },
+    "BBA-1B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "Management Principles",
+                    "Mr. Usayd Jamil"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-3": [
+                    "Sociology",
+                    "Mr. Bilal Khan"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "OCPS",
+                    "Ms. Shaheera Mukhtar"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "PMC",
+                    "Ms. Sumera Uner"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "IT in Business",
+                    "Ms. Faryal Sabir"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "Islamic Studies",
+                    "Mr. Uzair Memon"
+                ]
+            }
+        }
+    },
+    "BSSE-6A": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-15": [
+                    "SEC4516 Artificial Intelligence",
+                    "& BSSE-6B Dr. Kamran"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "SEC4712 Operations Research",
+                    "& BSSE-6B & MSCS-Open Mr. Mohi Ul Islam"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "SEC3605 Software Quality Engineering",
+                    "& BSSE-6B Mr. Javed"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "SEC3617 Information Security",
+                    "& BSSE-6B Ms. Nayab"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "SEC3607 Web Engineering",
+                    "& BSSE-6B Ms. Sapna"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-13": [
+                    "CSC4102 Professional Practices",
+                    "& BSSE-6B Dr. Amir Hassan"
+                ]
+            }
+        }
+    },
+    "BSSE-6B": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-15": [
+                    "SEC4516 Artificial Intelligence BSSE-6A &",
+                    "Dr. Kamran"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "SEC4712 Operations Research BSSE-6A &",
+                    "& MSCS-Open Mr. Mohi Ul Islam"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "SEC3605 Software Quality Engineering BSSE-6A &",
+                    "Mr. Javed"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "SEC3617 Information Security BSSE-6A &",
+                    "Ms. Nayab"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "SEC3607 Web Engineering BSSE-6A &",
+                    "Ms. Sapna"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-13": [
+                    "CSC4102 Professional Practices BSSE-6A &",
+                    "Dr. Amir Hassan"
+                ]
+            }
+        }
+    },
+    "BBA-5B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-18": [
+                    "Islamic Banking & Finance",
+                    "(University Elective-1) Ms. Maryam Qureshi"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "Development Economics",
+                    "Ms. Museara Bhutto"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "Statistical Inference",
+                    "Mr. Rajnesh Shahani"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-14": [
+                    "Media Management",
+                    "Ms. Aiza Aziz"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "Financial Markets and Institutions",
+                    "Mr. Dileep Kumar"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-14": [
+                    "Law And Taxation",
+                    "Mr. Majid Hashim"
+                ]
+            }
+        }
+    },
+    "BBA-7A": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Services Marketing",
+                    "Ms. Aiza Aziz"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Entrepreneurship",
+                    "Ms. Faiza Shahani"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Business Project",
+                    "Ms. Mehwish Jaweed"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "Project Management",
+                    "Mr. Bilal Khan"
+                ]
+            }
+        }
+    },
+    "BSSE-4A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "CSC2205 Operating Systems",
+                    "Ms. Ayesha Butt"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "CSC1206 Probability & Statistics",
+                    "& BSSE-4B Ms. Nayab"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "CSC4504 Organizational Behavior",
+                    "Ms. Museara Bhutto"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Lab-1": [
+                    "SECL2404 Software Design & Architecture (L-1)",
+                    "Ms. Laviza Asif (2:45PM to 4:45PM)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-1": [
+                    "CSCL2203 Database Systems (L-1)",
+                    "Ms. Bushra (9:00AM to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "CSC2203 Database Systems",
+                    "Mr. Naeem Channar"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "SEC2404 Software Design & Architecture (2,0)",
+                    "Mr. Muzamil Zafar (till 10:00AM)"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Lab-1": [
+                    "CSCL2205 Operating Systems (L-1)",
+                    "Ms. Aafia Siddiqui (10:30AM to 12:30AM)"
+                ]
+            }
+        }
+    },
+    "BBA-2A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "Human Behaviour",
+                    "Dr. Mehmood Mughal"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-6": [
+                    "EWS",
+                    "Ms. Tanzeela Abid"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "Maths For Business",
+                    "Ms. Annam Jameel"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-3": [
+                    "Microeconomics",
+                    "Ms. Ayesha Memon"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "Introduction to Accounting",
+                    "Mr. Muhammad Sabir"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Pakistan Studies",
+                    "Mr. Farooque Junejo"
+                ]
+            }
+        }
+    },
+    "BBA-8B": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "Pakistan Economy",
+                    "Ms. Sumera Uner"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-6": [
+                    "Community Services Project",
+                    "Mr. Taha Memon"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Managemenet Information Syestems",
+                    "Ms. Mehwish Jaweed"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Quantative Skills",
+                    "/ Quantitative Tools for Managemenet MBA-72 (1) Mr. Ahmed Adil"
+                ]
+            }
+        }
+    },
+    "BSAF-1": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "Pakistan Studies",
+                    "& BSSS-1 Mr. Uzair Memon"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-6": [
+                    "Computer Concepts & Applications",
+                    "& BSSS-1 & BSCS-Open Mr. Tarique Ahmed Shah (Class)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "English Comprehension & Oral Communication",
+                    "Ms. Shaheera Mukhtar"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Maths For Business",
+                    "& BBA-Open Ms. Annam Jameel"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Islamic Studies",
+                    "& BSSS-2 Mr. Usman Khan"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Financial Accounting MBA-72 (1) &",
+                    "& BBA-Open  Mr. Feroz Aziz"
+                ]
+            }
+        }
+    },
+    "BSSS-1": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "Pakistan Studies BSAF-1 &",
+                    "Mr. Uzair Memon"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-6": [
+                    "Computer Concepts & Applications BSAF-1 &",
+                    "& BSCS-Open Mr. Tarique Ahmed Shah (Class)"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Introduction to Social Science",
+                    "Mr. Shayan Siddiqui"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "Microeconomics",
+                    "& BSAF-2 & BBA-Open Mr. Jamshaid"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Community Services",
+                    "Ms. Shaheera Mukhtar"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-3": [
+                    "English For Genral Purposes",
+                    "& BBA-Open Ms. Tanzeela Abid"
+                ]
+            }
+        }
+    },
+    "BSSE-2B": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "CSC1208 Object Oriented Programming Techniques",
+                    "Mr. Humair"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "SEC3301 Introduction to Management",
+                    "Ms. Farah Shaikh"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "CSC1201 Discrete Mathematical Structures",
+                    "& BSCS-Open Dr. Ume Habiba"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-14": [
+                    "CSC3109 Software Engineering",
+                    "Ms. Sapna"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-1": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "Ms. Bushra (11:30AM to 1:30PM)"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "CSC2101 Communication and Presentation Skills",
+                    "Mr. Muhammad Usman"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "CSC 1209 Islamic Studies/Humanities",
+                    "(2,0)  Mr. Osama Zafar (till 10:00AM)"
+                ]
+            }
+        }
+    },
+    "BBA-6A": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "Marketing Managemenet",
+                    "Mr. Jamshaid"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-12": [
+                    "Operations Management",
+                    "Mr. Rashid Ahmed Qureshi"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Financial Management",
+                    "Ms. Zohra Yousfani"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-6": [
+                    "HRM",
+                    "Mr. Afzal Khan"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-6": [
+                    "Business Research Methods",
+                    "& BSSS-Open Dr. Abdul Ghafoor"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "Business Analysis & Forecasting (University Elective-2)",
+                    "Dr. Naeem Ahmed Qureshi"
+                ]
+            }
+        }
+    },
+    "BBA-7B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Business Project",
+                    "Ms. Mehwish Jaweed"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-6": [
+                    "Services Marketing",
+                    "Ms. Aiza Aziz"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Project Management",
+                    "Mr. Bilal Khan"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Entrepreneurship",
+                    "Ms. Faiza Shahani"
+                ]
+            }
+        }
+    },
+    "BSCS-8A": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "CSC4501 Business and Technology Ethics",
+                    "Mr. Muzamil Zafar"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "CSC4602 History of Scientific Ideas",
+                    "Dr. Amir Hassan"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-17": [
+                    "CSC4201 Information Security",
+                    "Ms. Nayab"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "CSC4202 Pakistan and Islamic Studies / Humanities (4, 0)",
+                    "& BBA-Open Mr. Usman Khan (till 6:00PM)"
+                ]
+            }
+        }
+    },
+    "BSCS-2A": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "CSC2103 Digital Logic Design",
+                    "Mr. Anjum"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Lab-5": [
+                    "CSCL2103 Digital Logic Design (L-1)",
+                    "Mr. Ahmed Raza (2:15PM to 4:15PM)"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC1206 Probability & Statistics",
+                    "Dr. Sumbul"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC1209 Humanities (2,0)",
+                    "& BSCS-2B & BSCS-2C Mr. Dushyant (till 10:00AM)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "CSC1208 Object Oriented Programming Techniques",
+                    "& BSCS-2B Mr. Humair"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-10": [
+                    "Communication and Presentation Skills",
+                    "Mr. Umair Jamil"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Lab-6": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "Mr. Umar Khan (11:15AM to 1:15PM)"
+                ]
+            }
+        }
+    },
+    "BBA-6B": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "Financial Management",
+                    "& MBA-72 (3) & BSAF-6 Ms. Zohra Yousfani"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "Operations Management",
+                    "Mr. Rashid Ahmed Qureshi"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Marketing Managemenet",
+                    "& BSAF-6 & MBA-72 (1) Mr. Ajmal Arain"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Business Research Methods",
+                    "& BSAF-6 Dr. Abdul Ghafoor"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-2": [
+                    "HRM",
+                    "& MBA-72 (2) & BSAF-8 Mr. Bilal Khan"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "Business Analysis & Forecasting (University Elective-2)",
+                    "Dr. Naeem Ahmed Qureshi"
+                ]
+            }
+        }
+    },
+    "MBA-72": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "Financial Management BBA-6B &",
+                    "(3) & BSAF-6 Ms. Zohra Yousfani"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Strategic Marketing MBA-36 (1) &",
+                    "(4) Dr. Muneer Soomro"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-4": [
+                    "Strategic Management  MBA-36(1) &",
+                    "(4) Mr. Afzal Khan"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Quantative Skills BBA-8B / Quantitative Tools for Managemenet",
+                    "(1) Mr. Ahmed Adil"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-5": [
+                    "Microeconomics",
+                    "(1) Mr. Jamshaid"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Cost & Management Accounting BBA-4A &",
+                    "(2) Mr. Ashfaque Shah"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-4": [
+                    "Applied Research Methods MBA-36(1) &",
+                    "(2) Dr. Saba Shaikh"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-14": [
+                    "Business and Electronic Communication BBA-3A &",
+                    "(1) Ms. Sadia Syed"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "Intro. to Business Finance BBA-4A &",
+                    "(2) & BSAF-3 Dr. Arshad Haroon"
+                ]
+            }
+        }
+    },
+    "BSAF-6": {
+        "MONDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "Financial Management BBA-6B & MBA-72 (3) &",
+                    "Ms. Zohra Yousfani"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Marketing Managemenet BBA-6B &",
+                    "& MBA-72 (1) Mr. Ajmal Arain"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "Business & Labor Law",
+                    "Mr. Usayd Jamil"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Business Research Methods BBA-6B &",
+                    "Dr. Abdul Ghafoor"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-17": [
+                    "Financial Reporting",
+                    "Mr. Muzammil"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-1": [
+                    "Auditing-2",
+                    "Mr. Moazzam Malik"
+                ]
+            }
+        }
+    },
+    "BSAF-4": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Accounting & Financial Information Systems",
+                    "Mr. Syed Feroz Aziz"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-10": [
+                    "Management Information Systems",
+                    "Mr. Tariq Shah"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-6": [
+                    "Money & Banking",
+                    "& BBA-Open Dr. Arshad Haroon"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "Business Statistics BBA-4A / Statistics & Probabilty",
+                    "Ms. Zainab Soomro"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Management Accounting",
+                    "Mr. Ashfaque Shah"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "11:00AM to 1:30PM": {
+                "Room-6": [
+                    "Business & Technical English Writing BSAF-2 &",
+                    "Ms. Faiza Shahani"
+                ]
+            }
+        }
+    },
+    "BSAI-2A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "CSC2206 Linear Algebra",
+                    "Dr. Aijaz Siddique"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Lab-5": [
+                    "CSCL2103 Digital Logic Design (L-1)",
+                    "Mr. Ahmed Raza (2:15PM to 4:15PM)"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC2101 Communication and Presentation Skills",
+                    "Ms. Ayesha Butt"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "CSC1208 Object Oriented Programming Techniques",
+                    "Mr. Naeem Channar"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "CSC1206 Probability & Statistics",
+                    "Dr. Ume Habiba"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-6": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "& BSCS-Open Mr. Dushyant (11:15AM to 1:15PM)"
+                ]
+            }
+        }
+    },
+    "BSSE-2A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "Discrete Mathematical Structures",
+                    "Dr. Ume Habiba"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "CSC 3109 Software Engineering",
+                    "Ms. Sapna"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-14": [
+                    "SEC3301 Introduction to Management",
+                    "Ms. Farah Shaikh"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-14": [
+                    "CSC1208 Object Oriented Programming Techniques",
+                    "Mr. Humair"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC2101 Communication and Presentation Skills",
+                    "Mr. Muhammad Usman"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-6": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "Ms. Bushra (9:00AM to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-3": [
+                    "CSC 1209 Islamic Studies/Humanities",
+                    "(2,0) Mr. Osama Zafar (till 1:30PM)"
+                ]
+            }
+        }
+    },
+    "BSSS-4": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "Introduction to Organizational Psychology",
+                    "Dr. Irfana Shah"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Mass Media (Elective-1)",
+                    "Ms. Umema Feroz"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "Development Studies",
+                    "Dr. Asandas"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Statistical Inference BBA-5A & MBA-72 (2) & BSAF-5  &",
+                    "Mr. Rajnesh Shahani"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "Gender Studies",
+                    "Mr. Shayan Siddiqui"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-5": [
+                    "Social Policy",
+                    "Ms. Noor-ul-Ain"
+                ]
+            }
+        }
+    },
+    "BSCS-4B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC2203 Database Systems",
+                    "& BSSE-4B Mr. Naeem Channar"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-1": [
+                    "CSCL2203 Database Systems (L-1)",
+                    "& BSSE-4B Ms. Bushra (9:00AM to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "CSC3202 Design & Analysis of Algorithms  BSCS-4A &",
+                    "Ms. Sapna"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "CSC2206 Linear Algebra",
+                    "Dr. Aijaz Siddique"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC2204 Finite Automata BSCS-4A &",
+                    "Mr. Sajid Ahmed"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "Introduction to Accounting (UE)",
+                    "Mr. Hassan Solangi"
+                ]
+            }
+        }
+    },
+    "BSSE-4B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC2203 Database Systems BSCS-4B &",
+                    "Mr. Naeem Channar"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-2": [
+                    "CSCL2205 Operating Systems (L-1)",
+                    "& BSCS-Open Ms. Aafia Siddiqui (11:15AM to 1:15PM)"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-1": [
+                    "CSCL2203 Database Systems (L-1) BSCS-4B &",
+                    "Ms. Bushra (9:00AM to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "CSC1206 Probability & Statistics BSSE-4A &",
+                    "Ms. Nayab"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-14": [
+                    "SEC2404 Software Design & Architecture (2,0)",
+                    "Mr. Muzamil Zafar (till 1:15PM)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-10": [
+                    "CSC2205 Operating Systems",
+                    "Ms. Ayesha Butt"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Introduction to Accounting / Financial Accounting BSCS-4A",
+                    "Mr. Hassan Solangi"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Lab-1": [
+                    "SECL2404 Software Design & Architecture (L-1)",
+                    "Ms. Laviza Asif (2:30PM to 4:30PM)"
+                ]
+            }
+        }
+    },
+    "BSSE-8A": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-16": [
+                    "SEC4514 Introduction to Data Science",
+                    "Ms. Nayab"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "SEC3614 Computer Graphics",
+                    "Mr. Javed"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-15": [
+                    "SEC3303 Human Resource Management",
+                    "Mr. Amir Lodhi"
+                ]
+            }
+        }
+    },
+    "BSCS-2B": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-5": [
+                    "CSCL2103 Digital Logic Design (L-1)",
+                    "Mr. Ahmed Raza (9:15AM to 11:15AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-16": [
+                    "CSC1206 Probability & Statistics",
+                    "Dr. Sumbul"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-11": [
+                    "Communication and Presentation Skills",
+                    "Mr. Umair Jamil"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC1209 Humanities (2,0) BSCS-2A &",
+                    "& BSCS-2C Mr. Dushyant (till 10:00AM)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "CSC1208 Object Oriented Programming Techniques BSCS-2A &",
+                    "Mr. Humair"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-14": [
+                    "CSC2103 Digital Logic Design",
+                    "Mr. Anjum"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "2:45PM to 5:15PM": {
+                "Lab-1": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "Mr. Umar Khan (1:30PM to 3:30PM)"
+                ]
+            }
+        }
+    },
+    "BBA-2B": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "Human Behaviour",
+                    "Dr. Mehmood Mughal"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "EWS",
+                    "Ms. Tanzeela Abid"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "Microeconomics",
+                    "Ms. Ayesha Memon"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "Maths For Business",
+                    "Ms. Annam Jameel"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-1": [
+                    "Pakistan Studies",
+                    "Mr. Farooque Junejo"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "Introduction to Accounting",
+                    "Mr. Muhammad Sabir"
+                ]
+            }
+        }
+    },
+    "BBA-8A": {
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Quantative Skills",
+                    "Ms. Zainab Soomro"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Community Services Project",
+                    "Mr. Taha Memon"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Managemenet Information Syestems",
+                    "Ms. Mehwish Jaweed"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-17": [
+                    "Pakistan Economy",
+                    "Ms. Sumera Uner"
+                ]
+            }
+        }
+    },
+    "BSAF-2": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Financial Accounting BBA-3A & Advanced Financial Accounting",
+                    "Ms. Maryam Qureshi"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "Microeconomics BSSS-1 &",
+                    "& BBA-Open Mr. Jamshaid"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Introduction to Sociology",
+                    "& BSSS-2 Ms. Tanzeela Abid"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "Introduction to Psychology",
+                    "& BSSS-2 Dr. Irfana Shah"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-6": [
+                    "Business Management",
+                    "Mr. Uzair Memon"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-6": [
+                    "Business & Technical English Writing",
+                    "& BSAF-4 Ms. Faiza Shahani"
+                ]
+            }
+        }
+    },
+    "BBA-7": {
+        "MONDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Business Project",
+                    "B Ms. Mehwish Jaweed"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Services Marketing",
+                    "A Ms. Aiza Aziz"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Entrepreneurship",
+                    "A Ms. Faiza Shahani"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Product Inovation and Design (Elect-2 Marketing / Supply Chain Management)",
+                    "(A&B) Ms. Murk Fatima"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "Recruitment & Selection (Elect-1 Management)",
+                    "(A&B) Mr. Afzal Khan"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Salary & Compensation (Elect-4 Management)",
+                    "(A&B) Dr. Saba Shaikh"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Business Project",
+                    "A Ms. Mehwish Jaweed"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Project Management",
+                    "B Mr. Bilal Khan"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Entrepreneurship",
+                    "B Ms. Faiza Shahani"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "Portfolio and Investment management (Elect-1 Finance",
+                    "(A&B) & BSAF-7 Mr. Haris Mastoi"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-7": [
+                    "Financial Risk Analysis (Elect-2 Finance",
+                    "(A&B) & BSAF-8 Mr. Imran Soomro"
+                ]
+            }
+        }
+    },
+    "BSSS-7": {
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-6": [
+                    "Environmental Studies",
+                    "Mr. Zulqernain"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "Introduction to Health Psychology",
+                    "Ms. Umema Feroz"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Psycho Dynamics (Major-II Psychology) BSSS-5 &",
+                    "& BSSS-8 Dr. Irfana Shah"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Arms Control & Disarmament (Major-I International Relations) BSSS-5 &",
+                    "& BSSS-8 Mr. Shayan Siddiqui"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "Middle Eastern Studies (Major-II International Relations) BSSS-5 &",
+                    "& BSSS-8 Mr. Naveed Qamar"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "US and International Politics (Major-II International Relations) BSSS-5 &",
+                    "& BSSS-8 Dr. Hassan Bux Noonari"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-4": [
+                    "Forensic Psychology ( Major-II Psychology) BSSS-5 &",
+                    "& BSSS-8 Dr. Muhammad Haris"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Environmental Psychology ( Major-III Psychology) BSSS-5 &",
+                    "& BSSS-8 Ms. Mahnoor Samo"
+                ]
+            }
+        }
+    },
+    "BSSS-5": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "Culture, Art and Society",
+                    "Ms. Mahnoor Samo"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-9": [
+                    "Foreign Language-1",
+                    "Dr. Muhammad Haris"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Psycho Dynamics (Major-II Psychology)",
+                    "& BSSS-7 & BSSS-8 Dr. Irfana Shah"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Arms Control & Disarmament (Major-I International Relations)",
+                    "& BSSS-7 & BSSS-8 Mr. Shayan Siddiqui"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "Middle Eastern Studies (Major-II International Relations)",
+                    "& BSSS-7 & BSSS-8 Mr. Naveed Qamar"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "US and International Politics (Major-II International Relations)",
+                    "& BSSS-7 & BSSS-8 Dr. Hassan Bux Noonari"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-4": [
+                    "Forensic Psychology ( Major-II Psychology)",
+                    "& BSSS-7 & BSSS-8 Dr. Muhammad Haris"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-2": [
+                    "Environmental Psychology ( Major-III Psychology)",
+                    "& BSSS-7 & BSSS-8 Ms. Mahnoor Samo"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Political Economy",
+                    "Dr. Sarfaraz Malik"
+                ]
+            }
+        }
+    },
+    "BSCS-6A": {
+        "TUESDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-9": [
+                    "CSC4717 Web Technologies-I",
+                    "Mr. Naeem Channar"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Lab-1": [
+                    "CSCL4101 Artificial Inteligence (L-1)",
+                    "Ms. Bushra (12:00PM to 2:00PM)"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "CSC4825 Computer Graphics",
+                    "Mr. Javed"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "CSC1205 Technical and Business Writing",
+                    "Mr. Muzamil Zafar"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-10": [
+                    "CSC4101 Artificial Inteligence",
+                    "Dr. Kamran"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-1": [
+                    "CSCL3205 Computer Networks and Data Communications (L-1)",
+                    "Mr. Dushyant (9:00Am to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-16": [
+                    "CSC3205 Computer Networks and Data Communications",
+                    "Mr. Sajid Ahmed"
+                ]
+            }
+        }
+    },
+    "BBA-3B": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-10": [
+                    "Marketing Principles",
+                    "Ms. Museara Bhutto"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-16": [
+                    "Macroeconomics",
+                    "Ms. Zohra Yousfani"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "OB",
+                    "Dr. Noor Muhammad jamali"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "Financial Accounting",
+                    "Ms. Maryam Qureshi"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-3": [
+                    "Logic & Critical Thinking",
+                    "Mr. Usayd Jamil"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "Business and Electronic Communication",
+                    "Ms. Sadia Syed"
+                ]
+            }
+        }
+    },
+    "BSCS-4A": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "CSC2206 Linear Algebra",
+                    "Dr. Aijaz Siddique"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "CSC3202 Design & Analysis of Algorithms",
+                    "& BSCS-4B Ms. Sapna"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Introduction to Accounting / Financial Accounting",
+                    "BSSE-4B Mr. Hassan Solangi"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC2203 Database Systems",
+                    "Mr. Naeem Channar"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Lab-6": [
+                    "CSCL2203 Database Systems (L-1)",
+                    "Ms. Bushra (11:00AM to 1:00PM)"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC2204 Finite Automata",
+                    "& BSCS-4B Mr. Sajid Ahmed"
+                ]
+            }
+        }
+    },
+    "BSCS-2C": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-16": [
+                    "CSC1206 Probability & Statistics",
+                    "Dr. Ume Habiba"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-15": [
+                    "CSC1209 Humanities (2,0) BSCS-2A & BSCS-2B &",
+                    "Mr. Dushyant (till 10:00AM)"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Lab-5": [
+                    "CSCL2103 Digital Logic Design (L-1)",
+                    "Mr. Ahmed Raza (9:00AM to 11:00AM)"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-13": [
+                    "CSC2103 Digital Logic Design",
+                    "Mr. Javed"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-12": [
+                    "CSC1208 Object Oriented Programming Techniques",
+                    "Mr. Humair"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-4": [
+                    "CSC2101 Communication and Presentation Skills",
+                    "Mr. Umair Jamil"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Lab-1": [
+                    "CSCL1208 Object Oriented Programming Techniques (L-1)",
+                    "Mr. Dushyant (11:30AM to 1:30PM)"
+                ]
+            }
+        }
+    },
+    "BSSS-3": {
+        "TUESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-17": [
+                    "English for Academic Purposes",
+                    "Ms. Aisha Iqbal"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-8": [
+                    "Study of Anthropology",
+                    "Mr. Shayan Siddiqui"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Introduction to Social Psychology",
+                    "Ms. Noor-ul-Ain"
+                ]
+            },
+            "11:00AM to 1:30PM": {
+                "Room-3": [
+                    "Introduction to Indus Civilization",
+                    "Dr. Hassan Bux Noonari"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-13": [
+                    "Mathematics & Statistics",
+                    "Mr. Ahmed Adil"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-5": [
+                    "Philosophy",
+                    "Dr. Santosh"
+                ]
+            }
+        }
+    },
+    "BBA-4A": {
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "Retail Management",
+                    "Ms. Murk Fatima"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "Consumer Behavior",
+                    "Mr. Jamshaid"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-4": [
+                    "Business Statistics",
+                    "/ Statistics & Probabilty BSAF-4 Ms. Zainab Soomro"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-2": [
+                    "Cost & Management Accounting",
+                    "& MBA-72 (2) Mr. Ashfaque Shah"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-3": [
+                    "Business Ethics",
+                    "Mr. Amir Lodhi"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-12": [
+                    "Intro. to Business Finance",
+                    "& MBA-72 (2) & BSAF-3 Dr. Arshad Haroon"
+                ]
+            }
+        }
+    },
+    "BBA-8": {
+        "MONDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-11": [
+                    "Pakistan Economy",
+                    "B Ms. Sumera Uner"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-6": [
+                    "Community Services Project",
+                    "B Mr. Taha Memon"
+                ]
+            }
+        },
+        "TUESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-8": [
+                    "Quantative Skills",
+                    "A Ms. Zainab Soomro"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-4": [
+                    "Community Services Project",
+                    "A Mr. Taha Memon"
+                ]
+            }
+        },
+        "WEDNESDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-10": [
+                    "Managemenet Information Syestems",
+                    "A Ms. Mehwish Jaweed"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "Investment Banking (Elect-3 Finance",
+                    "(A&B) Ms. Zohra Yousfani"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Quantative Skills",
+                    "B / Quantitative Tools for Managemenet MBA-72 (1) Mr. Ahmed Adil"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-7": [
+                    "Salary & Compensation (Elect-4 Management)",
+                    "(A&B) Dr. Saba Shaikh"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-17": [
+                    "Pakistan Economy",
+                    "A Ms. Sumera Uner"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-3": [
+                    "Export Marketing (Elect-4 Marketing / Supply Chain Management)",
+                    "(A&B) Dr. Abdul Ghafoor"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-16": [
+                    "Trade Marketing (Elect-3 Marketing / Supply Chain Management)",
+                    "(A&B) Ms. Murk Fatima"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-8": [
+                    "Recruitment & Selection (Elect-3 Management)",
+                    "(A&B) Mr. Afzal Khan"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Room-7": [
+                    "Alternative Investments (Elect-4 Finance",
+                    "(A&B) Mr. Imran Soomro"
+                ]
+            }
+        }
+    },
+    "BBA-5A": {
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Islamic Banking & Finance",
+                    "& BSAF-5 (University Elective-1) Ms. Maryam Qureshi"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Media Management",
+                    "Ms. Aiza Aziz"
+                ]
+            },
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Statistical Inference",
+                    "& MBA-72 (2) & BSAF-5  & BSSS-4 Mr. Rajnesh Shahani"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "2:45PM to 5:15PM": {
+                "Room-5": [
+                    "Development Economics",
+                    "Ms. Museara Bhutto"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-2": [
+                    "Law And Taxation",
+                    "Mr. Majid Hashim"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "Financial Markets and Institutions",
+                    "& BSAF-5 Mr. Dileep Kumar"
+                ]
+            }
+        }
+    },
+    "BSAF-5": {
+        "WEDNESDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-5": [
+                    "Islamic Banking & Finance BBA-5A &",
+                    "(University Elective-1) Ms. Maryam Qureshi"
+                ]
+            }
+        },
+        "THURSDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-3": [
+                    "Statistical Inference BBA-5A & MBA-72 (2) &",
+                    "& BSSS-4 Mr. Rajnesh Shahani"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "11:00AM to 1:30PM": {
+                "Room-7": [
+                    "Corporate Accounting",
+                    "Mr. Muzammil"
+                ]
+            },
+            "2:45PM to 5:15PM": {
+                "Room-1": [
+                    "Taxation",
+                    "Mr. Munir Jakhro"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "8:15AM to 10:45AM": {
+                "Room-1": [
+                    "Auditing-1",
+                    "Mr. Moazzam Malik"
+                ]
+            },
+            "11:30AM to 2:00PM": {
+                "Room-9": [
+                    "Financial Markets and Institutions BBA-5A &",
+                    "Mr. Dileep Kumar"
+                ]
+            }
+        }
+    },
+    "MSCS-2": {
+        "WEDNESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-4": [
+                    "CSC5201 Advanced Operating Systems",
+                    "Dr. Sumbul"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-6": [
+                    "CSC5202 Advanced Computer Architecture",
+                    "Dr. Kamran"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "11:30AM to 2:00PM": {
+                "Lab-4": [
+                    "CSC5161 Machine Learning",
+                    "Mr. Humair (Class)"
+                ]
+            }
+        }
+    },
+    "MSCS-4": {
+        "WEDNESDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-5": [
+                    "Reverse Engineering CS/Advance Software Engineering SE",
+                    "Dr. Kamran"
+                ]
+            }
+        },
+        "FRIDAY": {
+            "6:00PM to 8:30PM": {
+                "Room-5": [
+                    "CSC5164 Real-Time Systems",
+                    "Dr. Sumbul"
+                ]
+            }
+        },
+        "SATURDAY": {
+            "2:45PM to 5:15PM": {
+                "Lab-4": [
+                    "Software Analysis & Testing",
+                    "Mr. Qaiser Imtiaz (Class)"
+                ]
+            }
+        }
+    }
+}
